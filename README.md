@@ -11,7 +11,7 @@
 </div>
 
 ## Overview
-This user script unlocks and enables download of images, GIFs, audios, and videos in Telegram webapps from chats, stories, and even private channels where downloading is disabled or restricted.
+This user scrdsaipt unlocks and enables download of images, GIFs, audios, and videos in Telegram webapps from chats, stories, and even private channels where downloading is disabled or restricted.
 
 (Note: some features are only available for specific Telegram webapp version. e.g. Audio message download is only available for the K webapp version.)
 
